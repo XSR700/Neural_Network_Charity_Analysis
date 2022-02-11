@@ -26,6 +26,8 @@ Bek's company AlphabetSoup is a philentropic organization that collects donation
   How many neurons, layers, and activation functions did you select for your neural network model, and why?
   Were you able to achieve the target model performance?
   What steps did you take to try and increase model performance?
+  
+
 ## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
 
